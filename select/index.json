@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "UNNATURAL",
+  "base_artist": "WJSN",
+  "createdAt": "2025-12-09T23:37:39.933463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unnatural Selection",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/01_Unnatural_Selection_Muse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unnatural",
+      "artist": "Cannibal Corpse",
+      "has_synced": false,
+      "path": "select/02_Unnatural_Cannibal_Corpse.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Unnatural World",
+      "artist": "Cathedral",
+      "has_synced": true,
+      "path": "select/03_The_Unnatural_World_Cathedral.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unnatural Selection",
+      "artist": "Ayreon",
+      "has_synced": true,
+      "path": "select/04_Unnatural_Selection_Ayreon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unnatural Act",
+      "artist": "L.A. Guns",
+      "has_synced": true,
+      "path": "select/05_Unnatural_Act_L.A._Guns.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unnatural",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/06_Unnatural_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UNNATURAL",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/07_UNNATURAL_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "unnatural selection\u0000",
+      "artist": "Muse\u0000",
+      "has_synced": true,
+      "path": "select/08_unnatural_selection\u0000_Muse\u0000.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unnatural Beauty",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/09_Unnatural_Beauty_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Selection Unnatural",
+      "artist": "The Black Dahlia Murder",
+      "has_synced": true,
+      "path": "select/10_A_Selection_Unnatural_The_Black_Dahlia_Murder.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Unnatural Conception in Two Parts: The Birth and the Massacre of the Innocents",
+      "artist": "Paramaecium",
+      "has_synced": false,
+      "path": "select/11_The_Unnatural_Conception_in_Two_Parts__The_Birth_and_the_Massacre_of_the_Innocen_Paramaecium.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Unnatural Conception in Two Parts: The Birth and the Massacre of the Innocents",
+      "artist": "Paramæcium",
+      "has_synced": false,
+      "path": "select/12_The_Unnatural_Conception_in_Two_Parts__The_Birth_and_the_Massacre_of_the_Innocen_Paramæcium.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unnatural",
+      "artist": "Alex Temple feat. Spektral Quartet & Julia Holter",
+      "has_synced": true,
+      "path": "select/13_Unnatural_Alex_Temple_feat._Spektral_Quartet_&_Julia_Holter.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unnatural",
+      "artist": "Julia Holter / Spektral Quartet / Alex Temple",
+      "has_synced": true,
+      "path": "select/14_Unnatural_Julia_Holter___Spektral_Quartet___Alex_Temple.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNNATURAL",
+      "artist": "WJSN",
+      "has_synced": false,
+      "path": "select/pl_01_UNNATURAL_WJSN.txt"
+    }
+  ]
+}
